@@ -30,6 +30,7 @@ print(type[1, 2, 3]) List
 print(type({'name':'Zainab'})) Dictionary
 print(type({9.8, 3.4, 2.15})) Set
 print(type((8.6, 6.8, 4.33))) Tuple
+print(2,3)
 
 
 
