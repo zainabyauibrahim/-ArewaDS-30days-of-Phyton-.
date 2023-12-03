@@ -10,3 +10,6 @@ is_married = 'True'
 is_true = 'True'
 is_light_on = 'False'
 first_name last_name country, age, is_married = 'Zainab', ' Ibrahim', 'Nigeria', '100', 'True'
+
+print('First name length: ', len(first_name))
+print('First name length:' ,len(first_name) ('Last name length: ', len(last_name)))
